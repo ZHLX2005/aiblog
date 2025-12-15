@@ -1,0 +1,80 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+blog.exe
+aiblog.exe
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Go workspace file
+go.work
+
+# Dependency directories
+vendor/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Configuration file with sensitive data
+config.yaml
+
+# Output directories
+output/
+release/
+temp/
+tmp/
+
+# Session directories
+sessions/
+
+# FFmpeg temporary files
+*.m4a
+*.wav
+*.mp3.tmp
+*.mp4.tmp
+
+# Log files
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build artifacts
+dist/
+build/
+
+# OS specific files
+Thumbs.db
+.DS_Store
+*.lnk
+
+# Audio/Video files generated during development
+*.mp3
+*.mp4
+*.wav
+*.m4a
+!**/test_fixtures/*.mp3
+!**/test_fixtures/*.mp4
+
+# TOML mapping files generated during development
+*_mapping.toml
+
+# Cache directories
+.cache/
+.npm/
+.yarn/
