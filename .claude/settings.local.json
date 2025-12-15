@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat:*)",
+      "Bash(rm:*)",
+      "Bash(go mod init:*)",
+      "Bash(go get:*)",
+      "Bash(mkdir:*)",
+      "Bash(go mod tidy:*)",
+      "Bash(go build:*)",
+      "Bash(./aiblog.exe generate:*)",
+      "Bash(./blog.exe generate:*)",
+      "Bash(./blog.exe batch:*)",
+      "Bash(./blog.exe compose:*)"
+    ]
+  }
+}

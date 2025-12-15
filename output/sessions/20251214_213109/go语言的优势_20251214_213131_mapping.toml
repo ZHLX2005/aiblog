@@ -1,0 +1,64 @@
+title = "go语言的优势"
+description = "AI生成的博客对话，请为每个音频文件指定对应的图片"
+output_path = "./composed_video.mp4"
+audio_count = 10
+
+[[audio_files]]
+  audio_file = "D:\\code\\a_go\\proj\\much_biggo\\9000-aiblog\\output\\sessions\\20251214_213109\\audio\\segment_01_SS1.mp3"
+  image_file = "D:\\temp\\edgeD\\goppt\\4.png"
+  speaker = "[S1]"
+  content = "欢迎收听本期科技深聊，今天我们要……"
+
+[[audio_files]]
+  audio_file = "D:\\code\\a_go\\proj\\much_biggo\\9000-aiblog\\output\\sessions\\20251214_213109\\audio\\segment_02_SS2.mp3"
+  image_file = "D:\\temp\\edgeD\\goppt\\5.png"
+  speaker = "[S2]"
+  content = "很高兴能聊这个话题。Go的优势非常鲜明……"
+
+[[audio_files]]
+  audio_file = "D:\\code\\a_go\\proj\\much_biggo\\9000-aiblog\\output\\sessions\\20251214_213109\\audio\\segment_03_SS1.mp3"
+  image_file = "D:\\temp\\edgeD\\goppt\\7.png"
+  speaker = "[S1]"
+  content = "“简单”往往意味着功能弱，Go是如何做到简单又强大的？"
+
+[[audio_files]]
+  audio_file = "D:\\code\\a_go\\proj\\much_biggo\\9000-aiblog\\output\\sessions\\20251214_213109\\audio\\segment_04_SS2.mp3"
+  image_file = "D:\\temp\\edgeD\\goppt\\8.png"
+  speaker = "[S2]"
+  content = "问得好。Go的设计哲学是“少即是多”……"
+
+[[audio_files]]
+  audio_file = "D:\\code\\a_go\\proj\\much_biggo\\9000-aiblog\\output\\sessions\\20251214_213109\\audio\\segment_05_SS1.mp3"
+  image_file = "D:\\temp\\edgeD\\goppt\\10.png"
+  speaker = "[S1]"
+  content = "能具体说说这个并发模型为何独特吗？"
+
+[[audio_files]]
+  audio_file = "D:\\code\\a_go\\proj\\much_biggo\\9000-aiblog\\output\\sessions\\20251214_213109\\audio\\segment_06_SS2.mp3"
+  image_file = "D:\\temp\\edgeD\\goppt\\11.png"
+  speaker = "[S2]"
+  content = "传统线程创建和切换成本很高。Go的goroutine则轻量得多……"
+
+[[audio_files]]
+  audio_file = "D:\\code\\a_go\\proj\\much_biggo\\9000-aiblog\\output\\sessions\\20251214_213109\\audio\\segment_07_SS1.mp3"
+  image_file = "D:\\temp\\edgeD\\goppt\\13.png"
+  speaker = "[S1]"
+  content = "听起来它在后端和分布式系统领域优势明显……"
+
+[[audio_files]]
+  audio_file = "D:\\code\\a_go\\proj\\much_biggo\\9000-aiblog\\output\\sessions\\20251214_213109\\audio\\segment_08_SS2.mp3"
+  image_file = "D:\\temp\\edgeD\\goppt\\14.png"
+  speaker = "[S2]"
+  content = "确实，它在GUI、移动开发等领域并非强项……"
+
+[[audio_files]]
+  audio_file = "D:\\code\\a_go\\proj\\much_biggo\\9000-aiblog\\output\\sessions\\20251214_213109\\audio\\segment_09_SS1.mp3"
+  image_file = "D:\\temp\\edgeD\\goppt\\16.png"
+  speaker = "[S1]"
+  content = "所以，对于开发者而言，Go的核心价值是什么？"
+
+[[audio_files]]
+  audio_file = "D:\\code\\a_go\\proj\\much_biggo\\9000-aiblog\\output\\sessions\\20251214_213109\\audio\\segment_10_SS2.mp3"
+  image_file = "D:\\temp\\edgeD\\goppt\\17.png"
+  speaker = "[S2]"
+  content = "总结来说，它是为现代工程化协作和高并发场景而生的语言……"

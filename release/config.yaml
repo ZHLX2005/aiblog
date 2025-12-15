@@ -1,0 +1,23 @@
+siliconflow:
+  api_key: "sk-taivpqxqnjkyyrrkuuenqtnlzhvamdgznmmfmzgmptwwcqbx"
+  base_url: "https://api.siliconflow.cn/v1"
+  chat_model: "deepseek-ai/DeepSeek-V3.2-Exp"
+  tts_model: "fnlp/MOSS-TTSD-v0.5"
+
+tts:
+  voice1: "fnlp/MOSS-TTSD-v0.5:alex"
+  voice2: "fnlp/MOSS-TTSD-v0.5:anna"
+  sample_rate: 32000
+  speed: 1.0
+  gain: 0
+  format: "mp3"
+  max_tokens: 2048
+
+ffmpeg:
+  path: "ffmpeg"
+  output_codec: "mp3"
+  output_format: "mp3"
+
+output:
+  dir: "./output"
+  audio_dir: "./output/audio"

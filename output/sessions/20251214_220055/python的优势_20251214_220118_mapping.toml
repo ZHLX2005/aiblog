@@ -1,0 +1,58 @@
+title = "python的优势"
+description = "AI生成的博客对话，请为每个音频文件指定对应的图片"
+output_path = "./composed_video.mp4"
+audio_count = 9
+
+[[audio_files]]
+  audio_file = "D:\\code\\a_go\\proj\\much_biggo\\9000-aiblog\\output\\sessions\\20251214_220055\\audio\\segment_01_SS1.mp3"
+  image_file = "D:\\temp\\edgeD\\pythonppt1\\4.png"
+  speaker = "[S1]"
+  content = "欢迎收听本期科技对话，今天我们探讨……"
+
+[[audio_files]]
+  audio_file = "D:\\code\\a_go\\proj\\much_biggo\\9000-aiblog\\output\\sessions\\20251214_220055\\audio\\segment_02_SS2.mp3"
+  image_file = "D:\\temp\\edgeD\\pythonppt1\\6.png"
+  speaker = "[S2]"
+  content = "很高兴参与讨论。Python的“简单”其实大有门道……"
+
+[[audio_files]]
+  audio_file = "D:\\code\\a_go\\proj\\much_biggo\\9000-aiblog\\output\\sessions\\20251214_220055\\audio\\segment_03_SS1.mp3"
+  image_file = "D:\\temp\\edgeD\\pythonppt1\\7.png"
+  speaker = "[S1]"
+  content = "“电池内置”这个说法很形象。但这背后的设计逻辑是什么？"
+
+[[audio_files]]
+  audio_file = "D:\\code\\a_go\\proj\\much_biggo\\9000-aiblog\\output\\sessions\\20251214_220055\\audio\\segment_04_SS2.mp3"
+  image_file = "D:\\temp\\edgeD\\pythonppt1\\9.png"
+  speaker = "[S2]"
+  content = "这是个很好的深度问题。Python的哲学核心是优雅与实用……"
+
+[[audio_files]]
+  audio_file = "D:\\code\\a_go\\proj\\much_biggo\\9000-aiblog\\output\\sessions\\20251214_220055\\audio\\segment_05_SS1.mp3"
+  image_file = "D:\\temp\\edgeD\\pythonppt1\\10.png"
+  speaker = "[S1]"
+  content = "那么在实际的产业应用中，这种平衡是如何体现的？"
+
+[[audio_files]]
+  audio_file = "D:\\code\\a_go\\proj\\much_biggo\\9000-aiblog\\output\\sessions\\20251214_220055\\audio\\segment_06_SS2.mp3"
+  image_file = "D:\\temp\\edgeD\\pythonppt1\\11.png"
+  speaker = "[S2]"
+  content = "数据科学和AI确实是明星领域，但它的应用远不止于此……"
+
+[[audio_files]]
+  audio_file = "D:\\code\\a_go\\proj\\much_biggo\\9000-aiblog\\output\\sessions\\20251214_220055\\audio\\segment_07_SS1.mp3"
+  image_file = "D:\\temp\\edgeD\\pythonppt1\\13.png"
+  speaker = "[S1]"
+  content = "听您这么一说，Python更像是一个“粘合剂”语言？"
+
+[[audio_files]]
+  audio_file = "D:\\code\\a_go\\proj\\much_biggo\\9000-aiblog\\output\\sessions\\20251214_220055\\audio\\segment_08_SS2.mp3"
+  image_file = "D:\\temp\\edgeD\\pythonppt1\\14.png"
+  speaker = "[S2]"
+  content = "挑战在于性能瓶颈和移动端生态。但社区也在不断突破……"
+
+[[audio_files]]
+  audio_file = "D:\\code\\a_go\\proj\\much_biggo\\9000-aiblog\\output\\sessions\\20251214_220055\\audio\\segment_09_SS1.mp3"
+  image_file = "D:\\temp\\edgeD\\pythonppt1\\20.png"
+  speaker = "[S1]"
+  content = "非常感谢您的分享。今天我们看到的Python，是一门兼具易用性和生态力的语言……"
